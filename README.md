@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nidhi 👋
 
-<!--
-**nidhiv1303/nidhiv1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a 2nd-year B.Tech engineering student passionate about building projects and exploring software development.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
+- **Frontend:** HTML, CSS, JavaScript  
+- **Programming:** Python, Java  
+- **Core CS:** DSA, DBMS  
+- **Database:** SQL  
+- **Tools:** Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Open Source Contribution  
+- Advanced DSA  
+- Backend Development  
+
+## 💡 What I Do
+- Build small projects to improve my development skills  
+- Practice DSA to strengthen logic  
+- Contribute to open-source and explore real-world workflows  
+
